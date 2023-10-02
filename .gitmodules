@@ -1,0 +1,9 @@
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library
+[submodule "MCUFRIEND_kbv"]
+	path = MCUFRIEND_kbv
+	url = https://github.com/prenticedavid/MCUFRIEND_kbv
+[submodule "box2d"]
+	path = box2d
+	url = https://github.com/erincatto/box2d
